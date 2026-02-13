@@ -12,7 +12,6 @@ import {
     Search,
     X,
     Anchor,
-    Plus,
     AlertOctagon,
     Gavel,
     FileText,
